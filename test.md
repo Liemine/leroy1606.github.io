@@ -9,7 +9,7 @@
 # Courses-status
 | Course                             | Timespan | Date       | Where        | Notes                                      |
 | :--                                | :------- | :--------- | :----------  | :--                                        |
-| Try Git                            | 00:30    | 08-10-2016 | Code School  | [Link](#try-git)                           |
+| Try Git                            | 00:30    | 08-10-2016 | Code School  | [Link](#try-git-site)                           |
 | Git Real                           | 03:30    | 08-10-2016 | Code School  | [Link](#git-real)                          |
 | Git Real 2                         | 02:30    | 08-10-2016 | Code School  | [Link](#git-real-2)                        |
 | Mastering GitHub                   | 05:30    | 10-10-2016 | Code School  | [Link](#Mastering GitHub)                  |
